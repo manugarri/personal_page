@@ -1,0 +1,34 @@
+
+/*
+html { 
+  background: url("images/sombra.png") no-repeat right top fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+*/
+.wrapper {
+background: url("images/sombra.png") no-repeat; 
+position:relative;
+height:878px;
+width:1371px;
+max-width:100%;
+float:right;
+}
+
+.sombra {
+
+}
+
+.twitter {
+position:absolute;
+margin-top:1%;
+margin-left:85%;
+}
+
+.linkedin {
+position:absolute;
+margin-top:15%;
+margin-left:60%;
+}
